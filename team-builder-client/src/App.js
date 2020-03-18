@@ -16,7 +16,7 @@ function App() {
       id: 2,
       name: 'lord fancypants',
       role: 'dancer',
-      email: 'lllrdfnc.pants.ant',
+      email: 'lllrdfnc@pants.ant',
     }
   ]);
 
